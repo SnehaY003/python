@@ -7,4 +7,4 @@ for i in range(1, N+ 1):
 if cnt==2:
     print("Prime")
 else:
-    print("Not Prime")
+    print("Not Print")
