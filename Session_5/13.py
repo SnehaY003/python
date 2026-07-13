@@ -1,0 +1,16 @@
+def merge(list1, list2):
+    return list1 + list2
+
+list1 = []
+list2 = []
+n1 = int(input("Enter number of elements in first list: "))
+for i in range(n1):
+    num = int(input("Enter element: "))
+    list1.append(num)
+
+n2 = int(input("Enter number of elements in second list: "))
+for i in range(n2):
+    num = int(input("Enter element: "))
+    list2.append(num)
+
+print("Merged List:",merge(list1, list2))
