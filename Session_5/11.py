@@ -1,6 +1,6 @@
 def sort_list(a):
     print("Ascending:",sorted(a))
-    print("Descending:",sorted(a[::-1]))
+    print("Descending:",sorted(a, reverse=True))
 
 a=[]
 
