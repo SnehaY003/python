@@ -1,0 +1,6 @@
+Name: Sneha Yadav
+Age: 20
+Course: B.Tech
+College: XYZ
+City: Gurgaon
+Mobile: XXXXXXXXXX
